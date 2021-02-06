@@ -1,0 +1,13 @@
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csprojAssemblyReference.cache
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache

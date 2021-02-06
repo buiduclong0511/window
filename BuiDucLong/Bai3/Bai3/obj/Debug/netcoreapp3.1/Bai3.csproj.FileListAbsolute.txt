@@ -1,0 +1,12 @@
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.exe
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.deps.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.runtimeconfig.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.runtimeconfig.dev.json
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.dll
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.pdb
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.AssemblyInfoInputs.cache
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.AssemblyInfo.cs
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.csproj.CoreCompileInputs.cache
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.dll
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.pdb
+G:\HocTap\visual-studio\Window\BuiDucLong\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.genruntimeconfig.cache
