@@ -1,0 +1,10 @@
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\bin\Debug\BuiDucLong.exe.config
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\bin\Debug\BuiDucLong.exe
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\bin\Debug\BuiDucLong.pdb
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.csprojAssemblyReference.cache
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.Form1.resources
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.Properties.Resources.resources
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.csproj.GenerateResource.cache
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.csproj.CoreCompileInputs.cache
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.exe
+E:\HocTap\window\baiTap13-3\BuiDucLong\BuiDucLong\obj\Debug\BuiDucLong.pdb
